@@ -22,7 +22,7 @@ class _SettingsState extends State<Settings> {
           SizedBox(
             height: 10,
           ),
-          title("Tài khoản"),
+          title("Tài khoản "),
           Divider(
             height: 1,
             color: Colors.white10,
